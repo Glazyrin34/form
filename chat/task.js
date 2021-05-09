@@ -1,3 +1,5 @@
+"use strict";
+
 const chat = document.querySelector('.chat-widget');
 const messages = document.querySelector('.chat-widget__messages');
 const input = document.getElementById('chat-widget__input');
