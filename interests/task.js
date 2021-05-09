@@ -1,3 +1,5 @@
+"use strict";
+
 const interests = document.querySelectorAll('.interest__check');
 
 for (let interest of interests) {
